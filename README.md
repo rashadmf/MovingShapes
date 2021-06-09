@@ -6,11 +6,10 @@ C++ and OpenGL
 
 Using:
 
-GLEW
-GLFW
-GLM 
+GLEW, GLFW, and GLM 
 
 Controls:
 
 Move with the arrow keys or WASD
+
 Look around with the mouse 
